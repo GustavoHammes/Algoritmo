@@ -1,3 +1,4 @@
+//String
 nome = prompt("Insira seu nome completo: ");
 maiuscula = nome.toUpperCase()
 minuscula = nome.toLowerCase()

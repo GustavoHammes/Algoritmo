@@ -1,0 +1,12 @@
+{
+  "name": "algoritmo",
+  "version": "1.0.0",
+  "description": "Repositório criado com base nas aulas de algoritmo da Fatec Jacareí, usando como principal linguagem em algoritmo o JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

@@ -1,3 +1,4 @@
+//While
 senha = "abc"
 entrada = ""
 nro = 0
