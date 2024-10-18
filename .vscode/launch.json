@@ -11,7 +11,7 @@
       "skipFiles": [
         "<node_internals>/**"
       ],
-      "program": "${workspaceFolder}\\Revisão\\revisao.js"
+      "program": "${workspaceFolder}\\Atividades\\exercício_18_09\\um.js"
     }
   ]
 }

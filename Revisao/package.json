@@ -1,0 +1,12 @@
+{
+  "name": "revisao",
+  "version": "1.0.0",
+  "main": "revisao.js",
+  "scripts": {
+    "um": "node ./revisao2"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
